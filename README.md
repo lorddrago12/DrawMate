@@ -91,4 +91,10 @@ open index.html
 
 ---
 
+## 🍿 Preview
+
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/33be9a56-17c8-4cd8-953a-9fad8f4d553a" />
+
+---
+
 Made with 💙 and lots of ~~coffee~~ creative energy!
